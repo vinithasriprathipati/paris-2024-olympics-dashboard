@@ -6,31 +6,47 @@ A Power BI dashboard analyzing **Paris 2024 Olympics** data, featuring insights 
 - 🌍 Country Performance  
 - 🏃‍♂️ Athlete Statistics  
 
+---
+
 ## 🎬 Dashboard Demo Video  
 
-🎥 [**Watch Dashboard Walkthrough**](https://drive.google.com/file/d/1zwlLtbjLPApo_0IeGlEfcRuU56cUMvyZ/view?usp=sharing)  
+📽️ [**Watch Dashboard Walkthrough**](https://drive.google.com/file/d/1zwlLtbjLPApo_0IeGlEfcRuU56cUMvyZ/view?usp=sharing)  
 
-*A short video demonstrating dashboard features and user interaction.* 
+*A quick demo showcasing dashboard features and interactivity.*  
 
-## 📊 Live Dashboard
+---
 
-👉 [View the Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=9eef3638-ed6c-464d-9c2a-762ab26b050a&autoAuth=true&ctid=7359f896-71e2-4dae-b8a3-15cdf97f2f10&navContentPaneEnabled=false)
+## 📂 Dataset  
 
-> *Note: Ensure you're signed in to Power BI to access the report.*
+📦 [**Download Dataset (.zip)**](https://github.com/vinithasriprathipati/paris-2024-olympics-dashboard/raw/main/Paris%20Olympics%20Dataset.zip)  
 
-## 📄 Download the Power BI Report
+The dataset contains sample Olympic records including medal tallies, country performances, and athlete details used for building the dashboard.
 
-👉 [Download Olympics.pbix](https://github.com/vinithasriprathipati/paris-2024-olympics-dashboard/raw/main/Olympics.pbix)
+---
 
-## 💡 Features
+## 📄 Download the Power BI Report  
 
-- Interactive medal tally across countries and sports  
-- Athlete-level performance analysis  
-- Country-wise filters and drill-through insights  
-- Comparative analytics and rankings  
+📥 [**Download Olympics.pbix**](https://github.com/vinithasriprathipati/paris-2024-olympics-dashboard/raw/main/Olympics.pbix)  
 
-## 🛠️ Tools Used
+---
 
-- Microsoft Power BI  
-- Power Query (M language) for data transformation  
-- DAX for calculated fields and measures  
+## 💡 Key Features  
+
+✔️ Interactive medal tally by country and event  
+✔️ Athlete-level performance statistics  
+✔️ Country-wise filters and drill-through capabilities  
+✔️ Comparative analytics with dynamic visualizations  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+- **Microsoft Power BI**  
+- **Power Query (M Language)** for data transformation  
+- **DAX (Data Analysis Expressions)** for calculated measures and KPIs  
+
+---
+
+## 📢 About  
+
+This dashboard provides real-time insights into Paris 2024 Olympic events, empowering viewers to explore country performances, athlete stats, and medal trends interactively.
